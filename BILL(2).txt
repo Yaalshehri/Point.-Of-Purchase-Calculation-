@@ -1,0 +1,9 @@
+      [-_-] [+_-] Welcome to the university cafeteria ordering system! *    
+
+ara 2230002222! Your total bill is: 4 SAR
+
+You earned 0 points.
+
+Thank you for your order [*-_-]!
+
+Please pay 4 SAR.
